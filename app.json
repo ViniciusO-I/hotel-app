@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Hotel App",
+    "slug": "hotel-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "hotel-app",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#E91E8C"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.hotelapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E91E8C"
+      },
+      "package": "com.hotelapp"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
